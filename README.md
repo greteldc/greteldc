@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @greteldc
-- 👀 I’m interested in ...
+- 👀 I’m interested in data science.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me ...
 
 <!---
