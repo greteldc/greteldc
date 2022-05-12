@@ -3,6 +3,7 @@
 - 🌱 I’m currently broadening my knowledge in data analysis, data science and machine learning.
 - 💞️ I’m looking to collaborate on data analysis, data science and machine learning.
 - 📫 How to reach me ...
+- -----
 - -------------------------------------
 
 <!---
