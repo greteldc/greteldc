@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @greteldc
 - 👀 I’m interested in data analysis, data science and machine learning.
-- 🌱 I’m currently broadening my knowledge in data analysis, data science and machine learning.
-- 💞️ I’m looking forward to collaborating on data analysis, data science and machine learning.
+- 🌱 I’m currently broadening my knowledge in data analysis, data science and/or machine learning.
+- 💞️ I’m looking forward to collaborating on data analysis, data science and/or machine learning.
 - 📫 How to reach me ...
 
 
