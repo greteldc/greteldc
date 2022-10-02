@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @greteldc 
-- 👀 I’m interested in data analysis, data science and machine learning.
-- 🌱 I have recently made a big step forward in broadening my knowledge in data analysis, data science and machine learning through an intensive bootcamp in Data Science (The Bridge, Madrid (online)).
-- I am currently working as a data scientist.
+- 👀 I’m interested in linguistics, data analysis, data science and machine learning.
+- 🌱 I have broadened my knowledge in data analysis, data science and machine learning through an intensive bootcamp in Data Science (The Bridge, Madrid (4 months, 480h, online)).
+- I am currently working as a data scientist in the sector of finance.
 - 💞️ I’m looking forward to continue broadening my knowledge on data analysis, data science and/or machine learning.
 
 <!---
